@@ -32,4 +32,5 @@ class App {
     this.app.use('/foto/', foto);
   }
 }
+
 export default new App().app;
